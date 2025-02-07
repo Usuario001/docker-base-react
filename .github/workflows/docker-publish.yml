@@ -26,4 +26,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: tu-usuario/docker-base-react:latest
+          tags: usuario001/docker-base-react:latest
