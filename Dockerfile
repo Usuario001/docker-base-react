@@ -2,7 +2,7 @@
 FROM node:22-alpine
 
 # Configurar el mantenedor de la imagen
-LABEL maintainer="JP"
+LABEL maintainer="usuario001"
 
 # Agregar un usuario no root
 RUN adduser -D -u 1001 jp && \
